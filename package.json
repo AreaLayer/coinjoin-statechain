@@ -1,0 +1,13 @@
+{
+  "name": "statechain-bitcoin-demo",
+  "version": "1.0.0",
+  "description": "A demo project for CoinJoin transactions and Statechains using bitcoinjs-lib and mercurylayer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@commerceblock/mercurylayer": "^1.0.0",
+    "bitcoinjs-lib": "^6.1.0"
+  }
+}
