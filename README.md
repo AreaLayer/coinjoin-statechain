@@ -1,4 +1,4 @@
-# Coinjoin Statechain
+# Coinjoin Statechain ⚡
 
 A demo project for Coinjoin transactions with Statechain
 
@@ -7,7 +7,3 @@ A demo project for Coinjoin transactions with Statechain
 - Alice accepts Statecoin
 - And then 'despeg' Statecoin
 - Later UTXO consolidation
-  
-## Roadmap
-
-- [ ] FOSS
